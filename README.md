@@ -10,6 +10,8 @@ Open `index.html` in a browser. No build or installation is required.
 
 In Settings → Pages, select **Deploy from a branch**, then **main** and **/(root)**, and save.
 
+After saving, check the repository's Actions tab for the Pages deployment. A successful deployment makes the simulation available at the address below.
+
 Expected site address after publishing: https://rahatalberuni.github.io/enuclear/
 
 ## Model scope
