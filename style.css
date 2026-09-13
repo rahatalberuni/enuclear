@@ -66,3 +66,13 @@
   .summary-hint { display: none; }
   .model summary { min-height: 52px; align-items: center; }
 }
+
+/* The whole cycle fits in a portrait phone panel. */
+#mobile-schematic { display: none; }
+@media (max-width: 760px) {
+  .schematic-scroll { display: none; }
+  #mobile-schematic { display: block; width: 100%; max-width: 480px; height: auto; margin: 14px auto 0; }
+  #mobile-schematic .svg-label { font-size: 15px; }
+  #mobile-schematic .svg-small { font-size: 13px; }
+  #mobile-schematic .temp { font-size: 14px; }
+}
