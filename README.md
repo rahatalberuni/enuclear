@@ -17,3 +17,7 @@ Expected site address after publishing: https://rahatalberuni.github.io/enuclear
 ## Model scope
 
 Educational ideal-gas Brayton-cycle prototype, not an engineering design or validation of waste heat recovery. Heat input and temperature are hypothetical independent assumptions. See the simulation's model notes for equations and limitations.
+
+## Mobile view
+
+On phones, the live system uses a portrait layout that shows the complete cycle without horizontal scrolling. Temperatures, power values, and pause/resume stay synchronized with the simulation.
